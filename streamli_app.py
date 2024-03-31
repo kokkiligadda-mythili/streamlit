@@ -1,1 +1,2 @@
-import streamlit as stst.write("Hello ,let's learn how to build a streamlit app together")
+a = (1, 2, 3, 4, 5)
+x = sum(a)
